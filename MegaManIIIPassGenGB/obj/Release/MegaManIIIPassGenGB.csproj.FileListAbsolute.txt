@@ -7,3 +7,13 @@ C:\workspace_sandbox\MegaManIIIPassGenGB\MegaManIIIPassGenGB\obj\Release\MegaMan
 C:\workspace_sandbox\MegaManIIIPassGenGB\MegaManIIIPassGenGB\obj\Release\MegaManIIIPassGenGB.csproj.CoreCompileInputs.cache
 C:\workspace_sandbox\MegaManIIIPassGenGB\MegaManIIIPassGenGB\obj\Release\MegaManIIIPassGenGB.exe
 C:\workspace_sandbox\MegaManIIIPassGenGB\MegaManIIIPassGenGB\obj\Release\MegaManIIIPassGenGB.pdb
+C:\Users\Administrator\source\repos\MegaManIIIPassGenGB\MegaManIIIPassGenGB\bin\Release\MegaManIIIPassGenGB.exe.config
+C:\Users\Administrator\source\repos\MegaManIIIPassGenGB\MegaManIIIPassGenGB\bin\Release\MegaManIIIPassGenGB.exe
+C:\Users\Administrator\source\repos\MegaManIIIPassGenGB\MegaManIIIPassGenGB\bin\Release\MegaManIIIPassGenGB.pdb
+C:\Users\Administrator\source\repos\MegaManIIIPassGenGB\MegaManIIIPassGenGB\obj\Release\MegaManIIIPassGenGB.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\MegaManIIIPassGenGB\MegaManIIIPassGenGB\obj\Release\MegaManIIIPassGenGB.FormMegaManIIIPassGenGB.resources
+C:\Users\Administrator\source\repos\MegaManIIIPassGenGB\MegaManIIIPassGenGB\obj\Release\MegaManIIIPassGenGB.Properties.Resources.resources
+C:\Users\Administrator\source\repos\MegaManIIIPassGenGB\MegaManIIIPassGenGB\obj\Release\MegaManIIIPassGenGB.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\MegaManIIIPassGenGB\MegaManIIIPassGenGB\obj\Release\MegaManIIIPassGenGB.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\MegaManIIIPassGenGB\MegaManIIIPassGenGB\obj\Release\MegaManIIIPassGenGB.exe
+C:\Users\Administrator\source\repos\MegaManIIIPassGenGB\MegaManIIIPassGenGB\obj\Release\MegaManIIIPassGenGB.pdb
